@@ -63,7 +63,7 @@ $(document).ready(function(){
     }
 
     function test(data){
-        console.log(data);
+        console.log(data[]);
     }
 
     function initialize() {
@@ -87,7 +87,7 @@ $(document).ready(function(){
         //getAllCategories(test);
         getAllTiles(showPropertyMarkers);
         //getAllZipcodes(test);
-        getAllAgeDist(test);
+        //getAllAgeDist(test);
     };
 
     // Sets the map on all markers in the array.

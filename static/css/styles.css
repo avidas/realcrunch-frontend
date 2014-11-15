@@ -68,3 +68,7 @@ body{
     bottom:0;
     overflow:hidden;
 }
+
+#wrapper {
+    padding-left: 0px;
+}

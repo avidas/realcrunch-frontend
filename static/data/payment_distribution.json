@@ -1,0 +1,250 @@
+{
+    "result": {
+        "code": 200,
+        "info": "OK"
+    },
+    "data": {
+        "stats": [
+            {
+                "date": "201401",
+                "histogram": [
+                    {
+                        "amounts": "<=99.99",
+                        "num_payments": 7028,
+                        "avg": 49.12
+                    },
+                    {
+                        "amounts": "100-249.99",
+                        "num_payments": 4901,
+                        "avg": 168.78
+                    },
+                    {
+                        "amounts": "250-399.99",
+                        "num_payments": 3474,
+                        "avg": 317.01
+                    },
+                    {
+                        "amounts": "400-599.99",
+                        "num_payments": 3227,
+                        "avg": 490.65
+                    },
+                    {
+                        "amounts": "600-799.99",
+                        "num_payments": 2095,
+                        "avg": 689
+                    },
+                    {
+                        "amounts": "800-999.99",
+                        "num_payments": 1412,
+                        "avg": 896.08
+                    },
+                    {
+                        "amounts": "1000-1299.99",
+                        "num_payments": 1494,
+                        "avg": 1125.6
+                    },
+                    {
+                        "amounts": "1300-1599.99",
+                        "num_payments": 1123,
+                        "avg": 1445.6
+                    },
+                    {
+                        "amounts": "1600-1999.99",
+                        "num_payments": 942,
+                        "avg": 1784.19
+                    },
+                    {
+                        "amounts": "2000-2399.99",
+                        "num_payments": 649,
+                        "avg": 2159.1
+                    },
+                    {
+                        "amounts": "2400-2999.99",
+                        "num_payments": 634,
+                        "avg": 2667.29
+                    },
+                    {
+                        "amounts": "3000-3999.99",
+                        "num_payments": 681,
+                        "avg": 3402.66
+                    },
+                    {
+                        "amounts": "4000-7999.99",
+                        "num_payments": 841,
+                        "avg": 5470.05
+                    },
+                    {
+                        "amounts": "8000-14999.99",
+                        "num_payments": 326,
+                        "avg": 10961.8
+                    },
+                    {
+                        "amounts": ">=15000",
+                        "num_payments": 160,
+                        "avg": 29873.74
+                    }
+                ]
+            },
+            {
+                "date": "201402",
+                "histogram": [
+                    {
+                        "amounts": "<=99.99",
+                        "num_payments": 6527,
+                        "avg": 49.68
+                    },
+                    {
+                        "amounts": "100-249.99",
+                        "num_payments": 4487,
+                        "avg": 169.3
+                    },
+                    {
+                        "amounts": "250-399.99",
+                        "num_payments": 3276,
+                        "avg": 317.37
+                    },
+                    {
+                        "amounts": "400-599.99",
+                        "num_payments": 2997,
+                        "avg": 489.51
+                    },
+                    {
+                        "amounts": "600-799.99",
+                        "num_payments": 1940,
+                        "avg": 691.82
+                    },
+                    {
+                        "amounts": "800-999.99",
+                        "num_payments": 1360,
+                        "avg": 893.17
+                    },
+                    {
+                        "amounts": "1000-1299.99",
+                        "num_payments": 1516,
+                        "avg": 1128.27
+                    },
+                    {
+                        "amounts": "1300-1599.99",
+                        "num_payments": 996,
+                        "avg": 1438.04
+                    },
+                    {
+                        "amounts": "1600-1999.99",
+                        "num_payments": 882,
+                        "avg": 1778.7
+                    },
+                    {
+                        "amounts": "2000-2399.99",
+                        "num_payments": 642,
+                        "avg": 2149.9
+                    },
+                    {
+                        "amounts": "2400-2999.99",
+                        "num_payments": 574,
+                        "avg": 2677
+                    },
+                    {
+                        "amounts": "3000-3999.99",
+                        "num_payments": 598,
+                        "avg": 3394.27
+                    },
+                    {
+                        "amounts": "4000-7999.99",
+                        "num_payments": 740,
+                        "avg": 5361.51
+                    },
+                    {
+                        "amounts": "8000-14999.99",
+                        "num_payments": 278,
+                        "avg": 10638.4
+                    },
+                    {
+                        "amounts": ">=15000",
+                        "num_payments": 150,
+                        "avg": 27765.89
+                    }
+                ]
+            },
+            {
+                "date": "201403",
+                "histogram": [
+                    {
+                        "amounts": "<=99.99",
+                        "num_payments": 6517,
+                        "avg": 49.77
+                    },
+                    {
+                        "amounts": "100-249.99",
+                        "num_payments": 4716,
+                        "avg": 167.9
+                    },
+                    {
+                        "amounts": "250-399.99",
+                        "num_payments": 3536,
+                        "avg": 317.53
+                    },
+                    {
+                        "amounts": "400-599.99",
+                        "num_payments": 3214,
+                        "avg": 487.28
+                    },
+                    {
+                        "amounts": "600-799.99",
+                        "num_payments": 2042,
+                        "avg": 691.11
+                    },
+                    {
+                        "amounts": "800-999.99",
+                        "num_payments": 1531,
+                        "avg": 892.36
+                    },
+                    {
+                        "amounts": "1000-1299.99",
+                        "num_payments": 1593,
+                        "avg": 1124.57
+                    },
+                    {
+                        "amounts": "1300-1599.99",
+                        "num_payments": 1024,
+                        "avg": 1440.4
+                    },
+                    {
+                        "amounts": "1600-1999.99",
+                        "num_payments": 873,
+                        "avg": 1787.77
+                    },
+                    {
+                        "amounts": "2000-2399.99",
+                        "num_payments": 654,
+                        "avg": 2158.59
+                    },
+                    {
+                        "amounts": "2400-2999.99",
+                        "num_payments": 603,
+                        "avg": 2669.2
+                    },
+                    {
+                        "amounts": "3000-3999.99",
+                        "num_payments": 606,
+                        "avg": 3421.59
+                    },
+                    {
+                        "amounts": "4000-7999.99",
+                        "num_payments": 867,
+                        "avg": 5498.1
+                    },
+                    {
+                        "amounts": "8000-14999.99",
+                        "num_payments": 290,
+                        "avg": 10518.95
+                    },
+                    {
+                        "amounts": ">=15000",
+                        "num_payments": 142,
+                        "avg": 26189.51
+                    }
+                ]
+            }
+        ]
+    }
+}
