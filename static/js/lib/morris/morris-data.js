@@ -42,9 +42,10 @@ $(function() {
         .done(function( data ) {
           hist = data.data.stats[0].histogram;
           res = [];
+          gender_map = {"M": "Male", "F": "Female"};
 
           hist.forEach(function(entry) {
-            res.push({label: entry.gender, value: entry.num_payments})
+            res.push({label: gender_map[entry.gender], value: entry.num_payments})
           });
           morris_donut(res);
 
