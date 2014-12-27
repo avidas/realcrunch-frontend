@@ -53,18 +53,19 @@ body{
 }
 
 #map-container {
-    max-width: 800px;
     min-height: 600px;
 }
 
 #map-canvas {
-    max-width: 664px;
-    max-height: 556px;
     width:100%;
-    height:calc(100% - 0);
-    position:absolute;
-    right:17px;
-    top:42px;
-    bottom:0;
+    height:600px;
     overflow:hidden;
+}
+
+#wrapper {
+    padding-left: 0px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #C9FFE5;
 }

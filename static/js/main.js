@@ -23,7 +23,7 @@ $(document).ready(function(){
 
         //console.log(properties);
         //properties = [[19.3333, -99.2333],[19.3833, -99.2033],[19.28333, -99.3033],[19.2333, -99.1333],[19.4333, -99.2333],[19.4533, -99.1333]];
-        for (var i = 0; i < properties.length; i++) {
+        for (var i = 0; i < 100; i++) {
             //console.log(properties[0], properties[1]);
             var propertyLatLng = new google.maps.LatLng(properties[i][1], properties[i][0]);
             addMarker(propertyLatLng);
@@ -87,7 +87,7 @@ $(document).ready(function(){
         //getAllCategories(test);
         getAllTiles(showPropertyMarkers);
         //getAllZipcodes(test);
-        getAllAgeDist(test);
+        //getAllAgeDist(test);
     };
 
     // Sets the map on all markers in the array.
